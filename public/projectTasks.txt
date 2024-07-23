@@ -1,0 +1,81 @@
+			Comlplete UI Overhaul v2.0
+
+complete UI changed
+	
+	please update id accordingly, no need to change anything just some ids, some are changed
+	by me
+	search is showing
+	new user signup is in user login
+
+
+	- More Updates Are On the Way
+
+Known Issues
+
+	captcha not generated automatically have to pressed reset captcha
+	menu items yet to be added	
+	show password eye icon not working
+	updating item cards is pending
+	forgot password design is incomplete working on it
+	please use and if anything found please update it here
+
+Regarding old v1 files is in Javascript-old folder and CSS-old folder
+						
+		...sorry for the inconvenience...
+
+								-Mubeen
+----------------------------------------------------------------------------------------------------------------------------------
+
+Beautification of header part, along with icon - Done - nagasivatejag
+Main block:
+     carosel part - Done - Changed By Nivrutee Dongare
+     products cards -In progress
+     products slider - In progress
+     products cards- In progress
+     Remember my id and pwd should preload data - Done -  Inderjeet
+     Capthca text adding and reloading - Done - Prasanna Kumar
+    
+	Navbar Design - Done - Mubeen
+
+Beautification of footer part - Done - Rama
+----------------------------------------------------
+
+Password validation min and max of 8 char - Done - Prasanna
+
+In new user signup page -> Captcha - Done - Prasanna
+
+In new user signup page comparing pwd and reenter pwd - Done - Inderjeet 
+
+pwd Valiation in new user signu page - max 8 char, pwd allways start with upppercase, shouldhave only number min, one special symn, ends with lower case  - PENDING - 
+---------------------------------
+
+Filter - Done - nagasivatejag
+
+Login page - View password icon (eye) - DONE-SOUMYARANJAN -DONE Shivangi
+
+signup page - view password icon (eye) - Done - nagasivatejag
+
+Forgot Password page - Done - Prasanna
+------------------
+
+Data json objects
+	15 products
+	womens - DONE - SiddharthaParida
+	mens -Vaibhav Tawale -Done
+	kids - Done - nagasivatejag
+	electronics-soumyaranjan-DONE
+	books - DONE - SiddharthaParida
+        computers - Done - nagasivatejag
+
+---------------
+
+Uploading image:  - PENDING
+
+	1. add condition check for only images and size of under 5mb 
+	2. enable add details button only after image uplaod, 
+	3. after image upload disable uplaod button 
+	4. show success msg after upload
+	5. Try for multiple image upload.
+---------------------------------
+
+

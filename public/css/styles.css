@@ -1,0 +1,16 @@
+ul {
+    border: 1px solid;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 10px 10px 10px green;
+    float: left;
+}
+
+li {
+    list-style: none;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}

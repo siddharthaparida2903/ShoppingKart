@@ -1,0 +1,65 @@
+.logo {
+  border: 2px solid black;
+  border-radius: 60%;
+  width: 60px;
+  height: 60px;
+}
+.logoName {
+  color: #3bfffb;
+  margin: 2px;
+  font-style: italic;
+}
+.headBar {
+  background-color: steelblue;
+}
+.navBars {
+  font-weight: bold;
+  color: yellow;
+  margin: 4px;
+}
+.navBars:hover {
+  color: rgb(11, 33, 198);
+  background-color: whitesmoke;
+  text-decoration: underline;
+}
+.search {
+  border: 6px solid orange;
+  border-radius: 40px;
+}
+.rightSide {
+  margin: 4px;
+}
+.btnsColor:hover {
+  font-weight: bold;
+  text-decoration: underline;
+  color: blue;
+  background-color: whitesmoke;
+}
+.btnsColor2:hover {
+  font-weight: bold;
+  color: black;
+  cursor: pointer;
+}
+footer {
+  padding: 35px;
+  font-weight: bold;
+  border-radius: 5px;
+  width: 100%;
+}
+.py-5 {
+  background-color: #759ec0;
+}
+h5 {
+  font-weight: bolder;
+}
+
+.carousel-item {
+  overflow: hidden;
+  height: 50vh; 
+}
+
+.carousel-item img {
+  width: 100%;
+  object-fit: cover;
+  transform: translateY(0%);
+}

@@ -1,0 +1,311 @@
+ [
+    
+        {
+            "id": "w_01",
+            "title": "Shoe",
+            "price": 3500,
+            "discountPercent": 10,
+            "description": "Advanced Comfort Technology: The Ultra Groove is equipped with Skechers' innovative comfort technology, ensuring a cushioned and supportive feel with every step you take.",
+            "mainImage": "https://m.media-amazon.com/images/I/71nFySmJ0ML._SX500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/71RH91BNewL._SX500_.jpg",
+                "https://m.media-amazon.com/images/I/71WD7tKMVJL._SX500_.jpg"
+            ],
+            "rating": 3.5,
+            "details": {
+                "Material type": "Mesh",
+                "Closure type": "Lace-Up",
+                "Heel type": "No Heel",
+                "Water resistance level": "Not Water Resistant"
+            },
+            "category": "Womens",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "w_02",
+            "title": "Kurta & Pant",
+            "price": 500,
+            "discountPercent": 20,
+            "description": "Kurta Set Fabric: Rayon Blend || Kurta Set Color :- White",
+            "mainImage": "https://m.media-amazon.com/images/I/71jgzEsSz2L._SX569_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/81u1qQjHrHL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/816zI0KpUjL._SX569_.jpg"
+            ],
+            "rating": 4.7,
+            "details": {
+                "Material type": "Rayon Blend",
+                "Fit type": "Straight",
+                "Style": "Regular",
+                "Closure type": "Pull On"
+            },
+            "category": "Womens",
+            "isLimitedDeal": false
+        },
+        {
+            "id": "w_03",
+            "title": "Dress",
+            "price": 3900,
+            "discountPercent": 20,
+            "description": "Get ready for party season with this sparkly sequin tea dress from our petite collection. ",
+            "mainImage": "https://m.media-amazon.com/images/I/61xzMgKE74L.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/51g0I5JIv+L.jpg",
+                "https://m.media-amazon.com/images/I/51IyWrKXgLL.jpg"
+            ],
+            "rating": 4.0,
+            "details": {
+                "Material type": "Polyester Blend",
+                "Length": "Mini",
+                "Style": "Fit And Flare",
+                "Sleeve  type": "Short Sleeve"
+            },
+            "category": "Womens",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "w_04",
+            "title": "Banarasi Sarees",
+            "price": 749,
+            "discountPercent": 5,
+            "description": "Beautiful Rich Pallu & Jacquard Jari Work On All Over The Saree. Light comfortable to wear, perfect for festival. Best gift for your loved ones.",
+            "mainImage": "https://m.media-amazon.com/images/I/61pwSlkui9L._SY741_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61jtMoEotKL._SY741_.jpg",
+                "https://m.media-amazon.com/images/I/61Tnij1xHzL._SY741_.jpg"
+            ],
+            "rating": 3.8,
+            "details": {
+                "Material type": "Soft silk",
+                "Length": "6 yards",
+                "Design name": "Zari",
+                "Weave type": "Banarasi"
+            },
+            "category": "Womens",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "w_05",
+            "title": "T-Shirt",
+            "price": 649,
+            "discountPercent": 15,
+            "description": "Elevate your tropical look by pairing this t-shirt with denim shorts and kitten heels. Add a touch of colour for an Instagram-worthy ensemble that radiates fun and adventure.",
+            "mainImage": "https://m.media-amazon.com/images/I/612iheL73nL._SY741_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61ueuYqz0OL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61hXpWW6HPL._SX569_.jpg"
+            ],
+            "rating": 3.8,
+            "details": {
+                "Material type": "100% Cotton",
+                "Fit type": "Oversized Fit",
+                "Style": "Western",
+                "Sleeve  type": "Half Sleeve"
+            },
+            "category": "Womens",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "w_06",
+            "title": "Belt",
+            "price": 549,
+            "discountPercent": 8,
+            "description": "ZORO Stretchable Woven Fabric belt for Men & Women,Fits on upto 40 inches waist size,Hole free design",
+            "mainImage": "https://m.media-amazon.com/images/I/71hPC57pS4L._SX679_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61I0s6GHPNL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71S6dDLzjXL._SX679_.jpg"
+            ],
+            "rating": 3.6,
+            "details": {
+                "Material type": "Leather",
+                "Closure  type": "Buckle",
+                "Occasion type": "Party, Casual, Formal",
+                "Country of Origin": "India"
+            },
+            "category": "Womens",
+            "isLimitedDeal": false
+        },
+        {
+            "id": "w_07",
+            "title": "Hat",
+            "price": 699,
+            "discountPercent": 25,
+            "description": "CLOTHERA Lightweight Summer Big Brim Straw Beach Hats for Women",
+            "mainImage": "https://m.media-amazon.com/images/I/61KanyVSvbL._SX679_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/419Y6d1z6-L.jpg",
+                "https://m.media-amazon.com/images/I/51vVtHfZeQL._SY741_.jpg"
+            ],
+            "rating": 4.7,
+            "details": {
+                "Material type": "Straw",
+                "Occasion type": "Wedding, Anniversary, Birthday",
+                "Style": "Floppy",
+                "Care instructions": "Hand Wash Only"
+            },
+            "category": "Womens",
+            "isLimitedDeal": false
+        },
+        {
+            "id": "w_08",
+            "title": "Jeans",
+            "price": 1899,
+            "discountPercent": 35,
+            "description": "Levi's Women's 711 Skinny Fit Mid-Rise Jeans",
+            "mainImage": "https://m.media-amazon.com/images/I/717myvo5LfL._SX569_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/717myvo5LfL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/714k3eHIeaL._SX569_.jpg"
+            ],
+            "rating": 4.4,
+            "details": {
+                "Material type": "Cotton",
+                "Length": "Ankle  Length",
+                "Style": "Skinny",
+                "Closure type": "Zipper"
+            },
+            "category": "Womens",
+            "isLimitedDeal": false
+        },
+        {
+            "id": "w_09",
+            "title": "Maternity Dress",
+            "price": 4164,
+            "discountPercent": 65,
+            "description": "MomToBe Women's Rayon Maternity Dress/Pregnancy Dress/Easy Breastfeeding Dress/Western Dress with Zippers for Nursing Pre and Post Pregnancy",
+            "mainImage": "https://m.media-amazon.com/images/I/61PcTnRsewL._SX679_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61muLVxaaoL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/51dlPPzg3hL._SX679_.jpg"
+            ],
+            "rating": 4.1,
+            "details": {
+                "Material type": "Rayon",
+                "Pattern": "Geometric",
+                "Sleeve  type": "Long  Fit",
+                "Length": "Mini"
+            },
+            "category": "Womens",
+            "isLimitedDeal": false
+        },
+        {
+            "id": "w_10",
+            "title": "Handbag",
+            "price": 2999,
+            "discountPercent": 57,
+            "description": "DailyObjects Women's Tote Bag | Spacious, Stylish, Sturdy Handbag with Zip closure | Made of Finest Poly Canvas Material | For Daily and Office Use (Multicolor)",
+            "mainImage": "https://m.media-amazon.com/images/I/51yivnvfunL._SX679_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61Gc3LRK13L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/51fKtz0-8eL._SX679_.jpg"
+            ],
+            "rating": 4.5,
+            "details": {
+                "Care instructions": "Hand Wash",
+                "Country of Origin": "India"
+            },
+            "category": "Womens",
+            "isLimitedDeal": false
+        },
+        {
+            "id": "w_11",
+            "title": "Socks",
+            "price": 999,
+            "discountPercent": 42,
+            "description": "CREATURE Ankle Length Plain Colourful Socks For Women/Girls-Combo Free Size Pack of 5 Pairs(SCS-WS-07-P-05)",
+            "mainImage": "https://m.media-amazon.com/images/I/41HydSji2vL.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61simdV94CL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/412mtMLltjL.jpg"
+            ],
+            "rating": 4.2,
+            "details": {
+                "Material composition": "Cotton",
+                "Length": "Ankle-Length"
+            },
+            "category": "Womens",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "w_12",
+            "title": "Gloves",
+            "price": 799,
+            "discountPercent": 35,
+            "description": "Footmate UV Sun Protection Driving Hand Gloves for Women - Combed Cotton Elbow Length Arm Sleeves for Outdoor Sports - Soft Long Gloves for Summer Winter - Free Size (Package Qty & Color As Per Image)",
+            "mainImage": "https://m.media-amazon.com/images/I/91I-VZcDXjL._SX679_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/91I-VZcDXjL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71tGnQClsaL._SX679_.jpg"
+            ],
+            "rating": 4.3,
+            "details": {
+                "Material type": "Cotton",
+                "Style": "Full-Finger",
+                "Ultraviolet light protection": "True"
+            },
+            "category": "Womens",
+            "isLimitedDeal": false
+        },
+        {
+            "id": "w_13",
+            "title": "Scarf",
+            "price": 1199,
+            "discountPercent": 29,
+            "description": "AQVA Printed Cotton Scarf for Women, Lightweight Soft Scarves Stoles for Summer & Winter (Size: 43 X 75 Inches)",
+            "mainImage": "https://m.media-amazon.com/images/I/81twE+YhffL._SY741_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/81OJUoktCuL._SY741_.jpg",
+                "https://m.media-amazon.com/images/I/91w1gMgi6DL._SY741_.jpg"
+            ],
+            "rating": 4.0,
+            "details": {
+                "Material type": "100% Cotton",
+                "Pattern": "Printed"
+            },
+            "category": "Womens",
+            "isLimitedDeal": false
+        },
+        {
+            "id": "w_14",
+            "title": "Sweater",
+            "price": 1599,
+            "discountPercent": 50,
+            "description": "NEXUS by Lifestyle Women Black Top Flat Knit",
+            "mainImage": "https://m.media-amazon.com/images/I/61Cm2LICIPL._SX679_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61HBfg0fdDL._SY741_.jpg",
+                "https://m.media-amazon.com/images/I/61KDCsRXNiL._SY741_.jpg"
+            ],
+            "rating": 4.4,
+            "details": {
+                "Material type": "Acrylic",
+                "Fit type": "Regular",
+                "Neck style": "V-Neck"
+            },
+            "category": "Womens",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "w_15",
+            "title": "Blazer",
+            "price": 3999,
+            "discountPercent": 0,
+            "description": "Allen Solly Women's Blazer",
+            "mainImage": "https://m.media-amazon.com/images/I/511QqZK4-ZL._SY741_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/51mnR1YWuwL._SY741_.jpg",
+                "https://m.media-amazon.com/images/I/51hob2YualL._SY741_.jpg"
+            ],
+            "rating": 4.7,
+            "details": {
+                "Material type": "64%Polyester34%Viscose2%Elasta",
+                "Style": "A-Line Coat",
+                "Closure type": "Snap",
+                "Care instructions": "Machine Wash"
+            },
+            "category": "Womens",
+            "isLimitedDeal": true
+        }
+
+    ]

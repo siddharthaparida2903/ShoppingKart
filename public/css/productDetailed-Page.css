@@ -1,0 +1,65 @@
+#container {
+    display: flex;
+}
+
+.forthContainer{
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+}
+.firstContainer {
+    width: 10%;
+    margin-top: 100px;
+    img {
+        display: block;
+        width: 100px;
+        height: 100px;
+        margin: 10px;
+    }
+}
+.fist-containerImg :hover{
+      cursor: pointer;
+      box-shadow: 5px 5px 5px lightgreen;
+}
+#thirdContainer{
+    width: 25%;
+    padding: 10px;
+}
+.forthContainer{
+    width: 110%;
+}
+#banner{
+    background-color: rgb(255, 123, 0); 
+    color: white; 
+    margin-right: 5px;
+}
+#banner-2{
+    background-color: rgb(178, 39, 39);
+    color: white;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 8px;
+}
+#discountedPrice{
+    color: green;
+}
+#OriginalPrice{
+    color: rgb(243, 15, 15);
+    text-decoration: line-through;
+}
+.details-block{
+    margin-right: 20px;
+}
+.forthContainer{
+    padding: 10px;
+}
+.btn-1 , .btn-2 {
+    display: block;
+    background-color: rgb(255, 208, 0);
+    width: 200px;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 20px ;
+    font-weight: bold;
+    margin-bottom: 10px;
+    
+}

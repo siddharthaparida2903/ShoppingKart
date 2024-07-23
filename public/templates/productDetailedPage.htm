@@ -1,0 +1,47 @@
+
+<div id="container">
+    <div class="firstContainer">
+        {{#each imageList}}
+            <img src="{{this}}" class="fist-containerImg"/>
+        {{/each}}
+    </div>
+    <div class="secondContainer">
+        <img src="{{mainImage}}" alt="">
+    </div>
+    <div id="thirdContainer">
+        <h1>{{title}}</h1>
+        <p>Ratings: {{rating}}<span id="product_{{id}}"></span></p>
+        <p><span id="banner">#1 Best Seller </span> In Mens Running Shoes</p>
+        <hr>
+        <p id="banner-2">Limited Time Deal</p>
+        <h2>Price :<span id="discountedPrice">&#8377; {{discountedPrice}}</span> <span id="OriginalPrice"> ₹{{price}} </span></h2>
+        <p>Inclusive of all taxes</p>
+        <p><b>EMI </b>starts at ₹199 per month. </p>
+        <hr>
+        <h3>Offers Available</h3>
+        <p>Get ₹100 off on your first purchase</p>
+        <h2>Product Details</h2>
+        <p><b class="details-block">Brand : {{details.Brand}}
+        <p><b class="details-block">Closure Type :</b>Lace-Up</p>
+        <p><b class="details-block">Water resistance level :</b>Not Water Resistant</p>
+        <p><b class="details-block">Sole material :</b>Ethylene Vinyl Acetate</p>
+        <p><b class="details-block">Country of Origin :</b>India</p>
+    </div>
+    <div class="forthContainer">
+       <h1> &#8377; {{discountedPrice}}</h1>
+       <p>FREE delivery Day, Date. Details</p>
+       <p>Or fastest delivery Tomorrow</p>
+       <h3 style="color: green;">In Stock</h3>
+       <p>Quatity :<span><select name="" id="">
+        <option value="1" selected>1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+       </select></span></p>
+       <div>
+        <button class="btn-1">Add to cart</button>
+        <button class="btn-2">Buy Now</button>
+       </div>
+    </div>
+</div>

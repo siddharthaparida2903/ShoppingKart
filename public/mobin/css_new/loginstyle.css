@@ -1,0 +1,150 @@
+@import url(./signupStyles.css);
+.heading {
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    color: black;
+}
+p {
+    margin: 5px;
+    font-size: 16px;
+}
+#forgotpswd {
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+#forgotpswd:hover {
+    text-decoration: underline;
+}
+.singInDetails {
+    text-align: center;
+    background-color: white;
+    list-style-type: none;
+    padding: 10px;
+    width: 100%;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: left;
+    border-bottom: 2px solid gray;
+}
+#userImage,
+#passwordImage {
+    width: 20px;
+    height: 20px;
+}
+.userPassword,
+.userId {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    width: 80%;
+    height: 40px;
+    margin: 0px auto;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    border: none;
+    font-size: 22px;
+}
+#userId,
+#userPassword {
+    margin: 0;
+    padding: 0;
+    width: 90%;
+    margin-left: 5px;
+}
+.userId input,
+.userPassword input {
+    border: none;
+    background: transparent;
+    font-size: 18px;
+}
+#btn {
+    background-color: black;
+    width: 80%;
+    height: 45px;
+    border-radius: 150px;
+    margin-top: 20px;
+    border: 1px solid;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+#btn:hover,
+.othersignin:hover,
+.userPassword:hover,
+.userId:hover {
+    box-shadow: 0 0 10px grey;
+    cursor: pointer;
+    border: none;
+}
+#userId:focus,
+#userPassword:focus {
+    outline: none;
+}
+#btn:hover {
+    background-color: white;
+    color: black;
+    transition: 0.1s;
+}
+#btn:active {
+    transform: scale(0.95);
+}
+#shwpswd {
+    margin: 10px;
+    vertical-align: middle;
+}
+.showpassword {
+    text-align: left;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+/* Captcha Styles */
+
+#captchaImage {
+    width: 80%;
+    height: 50px;
+    padding: 0;
+    margin: 0;
+    background-color: #ccc;
+}
+.captchaContainer {
+    box-sizing: border-box;
+    display: flex;
+    justify-content:space-between;
+    margin: auto;
+    padding: 0;
+    width: 250px;
+    background-color: #ccc;
+    padding: 5px;
+    border-radius: 5px;
+}
+.captcharesetbtn button {
+    height: 100%;
+    width: 50px;
+    font-size: 25px;
+    border: none;
+}
+#userEntrndCaptchaText {
+    width: 250px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid gray;
+
+}
+#signincapErr {
+    color: red;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    display: none;
+}
+#passwordeyeicon:hover {
+    transform: scale(1.1);
+}

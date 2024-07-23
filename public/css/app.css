@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+}
+main {
+    min-height: 700px;  
+}
+.cards{
+    margin:10px 0px;
+    display: flex;
+    gap: 20px;
+}
+.CategoryList label{
+    display:block;
+}
+

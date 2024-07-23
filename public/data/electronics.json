@@ -1,0 +1,325 @@
+ [
+        {
+            "id": "e_01",
+            "title": "Refrigerator",
+            "price": 46999,
+            "discountPercent": 23,
+            "description": "LG 322 L 3 Star Frost-Free Smart Inverter Double Door Refrigerator (2023 Model, GL-S342SDSX, Dazzle Steel, Convertible with Express Freeze)",
+            "mainImage": "https://m.media-amazon.com/images/I/71Bp538cdNL._SX679_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/71x1igtiRVL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71PsH3mgywL._SX679_.jpg"
+            ],
+            "rating": 4.2,
+            "details": {
+                " Product Dimensions": "71D x 60W x 164H Centimeters",
+                " Brand": "LG",
+                "Capacity": "322 litres",
+                "Configuration": "Full-Sized Freezer-on-Top",
+                "Energy Star": "3 Star"
+            },
+            "category": "electronics",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "e_02",
+            "title": "Washing Machine",
+            "price": 42990,
+            "discountPercent": 25,
+            "description": "LG 8 Kg 5 Star Inverter Direct Drive Fully Automatic Front Load Washing Machine (FHM1408BDW, Steam Wash, In-Built Heater, Touch Panel, White)",
+            "mainImage": "https://m.media-amazon.com/images/I/71YTlT7QteL._SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61yXxiXfMGL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81PMPQmUlDL._SL1500_.jpg"
+            ],
+            "rating": 4.3,
+            "details": {
+                "Material type": "Metal",
+                "Brand": "LG",
+                "Generic Name": "Washing Machine"
+            },
+            "category": "electronics",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "e_03",
+            "title": "Microwave Oven",
+            "price": 12990,
+            "discountPercent": 19,
+            "description": "Samsung 21L, Convection Microwave Oven with Triple Distribution System(CE73JD-B1/XTL, Black, 10 Yr warranty, Gift for Every Occasion)",
+            "mainImage": "https://m.media-amazon.com/images/I/71DraL4iGjL._SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/71fONhR4iBL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81ppbOtdhpL._SL1500_.jpg"
+            ],
+            "rating": 4.5,
+            "details": {
+                "Brand": "Samsung",
+                "Product": "Dimensions 44.4D x 48.9W x 28.2H Centimeters",
+                "Colour": "Black",
+                "Capacity": "21 litres",
+                "Special Feature": "Auto Cook"
+            },
+            "category": "electronics",
+            "isLimitedDeal": false
+        },
+        {
+            "id": "e_04",
+            "title": "TV",
+            "price": 139900,
+            "discountPercent": 39,
+            "description": "Sony 164 cm (65 inches) BRAVIA 2 4K Ultra HD Smart LED Google TV K-65S25B (Black)",
+            "mainImage": "https://m.media-amazon.com/images/I/819lC-tC8iL._SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/81XwLyq9ioL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81eAy0dBiLL._SL1500_.jpg"
+            ],
+            "rating": 4.8,
+            "details": {
+                "Screen Size": "65 Inches",
+                "Brand": "Sony",
+                "Display Technology": "LED",
+                "Resolution": "4K",
+                "Refresh Rate": "60 Hz"
+            },
+            "category": "electronics",
+            "isLimitedDeal": false
+        },
+        {
+            "id": "e_05",
+            "title": "Kettle",
+            "price": 1999,
+            "discountPercent": 40,
+            "description": "Butterfly Stainless Steel Matchless Multi Kettle 1.2 Liter - With Egg Rack + Ss Rack, 600 Watts",
+            "mainImage": "https://m.media-amazon.com/images/I/71R+2i0HPdL._SX679_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61fP7nnxueL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71W3qkAqn-L._SX679_.jpg"
+            ],
+            "rating": 4.1,
+            "details": {
+                "Brand": "Butterfly",
+                "Colour": "Silver",
+                "Special Feature": "Indicator Light, Heat Resistant Handle, Boil Dry Protection, Overheat Protection, Automatic Shut-Off",
+                "Package Information": "Kettle",
+                "Finish Type": "Polished"
+            },
+            "category": "electronics",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "e_06",
+            "title": " Mixer Grinder",
+            "price": 5298,
+            "discountPercent": 32,
+            "description": "Philips HL7756/01 750 Watt Mixer Grinder, 3 Stainless Steel Multipurpose Jars with 3 Speed Control and Pulse function (Black)",
+            "mainImage": "https://m.media-amazon.com/images/I/71mL2bdyRdL._SX679_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/810hj5njxHL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/81z4fmFW4cL._SX679_.jpg"
+            ],
+            "rating": 4.1,
+            "details": {
+                "Brand": "Philips",
+                "Colour": "Black",
+                "Product Dimensions": "37D x 21W x 26H Centimeters",
+                "Blade Material": "Stainless Steel",
+                "Special Feature Jar Material": "Stainless Steel, Material Blade: Stainless Steel"
+            },
+            "category": "electronics",
+            "isLimitedDeal": false
+        },
+        {
+            "id": "e_07",
+            "title": " Air Cooler",
+            "price": 16490,
+            "discountPercent": 36,
+            "description": "Orient Electric Durachill 64 L Portable Air Cooler For Home | Densenest Honeycomb Pads |17% More Air Delivery | Ice Chamber For Extra Cooling |Inverter Compatible | Air Cooler For Room | White & Grey",
+            "mainImage": "https://m.media-amazon.com/images/I/61mfrZq2KEL._SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/814+TtX1EnL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/816kK8q+WvL._SL1500_.jpg"
+            ],
+            "rating": 3.9,
+            "details":{
+                "Brand": "Orient Electric",
+                "Mounting Type": "Freestanding",
+                "Special Feature": "Adjustable Speed",
+                "Colour": "White & Grey",
+                "Air Flow Capacity": "4500 Cubic Feet Per Minute",
+                "Controls Type": "Knob"
+            },
+            "category":"electronics",
+            "isLimitedDeal":false
+        },
+        {
+            "id": "e_08",
+            "title": " Induction Cooktop",
+            "price": 3595,
+            "discountPercent": 50,
+            "description": "Pigeon By Stovekraft 14429 Acer Plus 1800 Watt Induction Cooktop with Feather Touch Control",
+            "mainImage": "https://m.media-amazon.com/images/I/711vXy4bobL._SX679_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/81+xMxCHKML._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/81b9aTvflpL._SX679_.jpg"
+            ],
+            "rating": 3.8,
+            "details":{
+                "Brand":"Pigeon",
+                "Heating Elements":"1",
+                "Colour":"Black",
+                "Power Source":"Electric"
+            },
+            "category":"electronics",
+            "isLimitedDeal":true
+        },
+        {
+            "id": "e_09",
+            "title": "Home Theatre",
+            "price": 13490,
+            "discountPercent": 19,
+            "description": "Panasonic SC-HT550GW-K 150 W Bluetooth Home Theatre (Black, 5.1 Channel)",
+            "mainImage": "https://m.media-amazon.com/images/I/810MbgbSbcL._SX679_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/81qAbUX+9mL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61kLbgLXfeL._SX679_.jpg"
+            ],
+            "rating": 4.0,
+            "details":{
+               " Brand":"Panasonic",
+               "Speaker Maximum Output Power":"150 Watts",
+               "Connectivity Technology":"Bluetooth, USB",
+               "Audio Output Mode":"Surround",
+               "Mounting Type":"Wall Mount"
+            },
+            "category":"electronics",
+            "isLimitedDeal":false
+        },
+        {
+            "id": "e_10",
+            "title": "Ac",
+            "price": 47900,
+            "discountPercent": 40,
+            "description": "Cruise 1.5 Ton 3 Star Inverter Split AC with 7-Stage Air Filtration",
+            "mainImage": "https://m.media-amazon.com/images/I/51quw5B6ckL._SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/71wsIvJuxrL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61VH-4ud44L._SL1500_.jpg"
+            ],
+            "rating": 4.0,
+            "details":{   
+                "Brand":"Cruise",
+                "Capacity":"1.5 Tons",
+                "Cooling Power":"4.8 Kilowatts"
+            },
+            "category":"electronics",
+            "isLimitedDeal":true
+        },
+        {
+            "id": "e_11",
+            "title": "Air Fryer",
+            "price": 20999,
+            "discountPercent": 57,
+            "description": "Instant Pot Air Fryer,Vortex 6 Litre,Touch Control Panel,360° Evencrisp Technology",
+            "mainImage": "https://m.media-amazon.com/images/I/71cn-i+GCZL._SX679_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/81vEFXRhj3L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61Z0LcBbQBL._SX679_.jpg"
+            ],
+            "rating": 4.7, 
+            "details":{             
+                "Special Feature":"Programmable",
+                "Colour":"N Applicable",
+                "Capacity":"6 Quarts",
+                "Material":"Stainless Steel",
+                "Recommended Uses For Product":"Roast, Broil, Bake, Reheat, Dehydrate"
+            },
+            "category":"electronics",
+            "isLimitedDeal":false
+        },
+        {
+            "id": "e_12",
+            "title": "Vacuum Cleaner",
+            "price": 9999,
+            "discountPercent": 39,
+            "description": "AGARO Ace Wet & Dry Vacuum Cleaner, 1600 Watts, 21.5 kPa Suction Power, 21 litres Tank Capacity",
+            "mainImage": "https://m.media-amazon.com/images/I/61B8-nfHqlL._SX679_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61K-TO-1iqL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71iUwJrwloL._SX679_.jpg"
+            ],
+            "rating": 4.7,  
+            "details":{
+                "Brand":"AGARO",
+                "Special Feature":"Wheels",
+                "Filter Type":"HEPA Filter",
+                "Form Factor":"Cannister",
+                "Colour":"Steel"
+            },
+            "category":"electronics",
+            "isLimitedDeal":true
+        },
+        {
+            "id": "e_13",
+            "title": "Robotic Vacuum Cleaner",
+            "price": 39999,
+            "discountPercent": 33,
+            "description": "Eureka Forbes Lvac Voice Nuo Robotic Vacuum Cleaner | NextGen AI+Lidar 2.0 | ODAC | 360°Real-time Mapping ",
+            "mainImage": "https://m.media-amazon.com/images/I/51UmBG0-gNL._SX679_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/718IKb4fryL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61KpV4PvcnL._SX679_.jpg"
+            ],
+            "rating": 4.7,
+            "details":{
+                "Brand":"Eureka Forbes",
+                "Special Feature":"Anti-Collision, Smart Mapping, Anti-Fall, Auto-Docking",
+                "Colour":"Black",
+                "Product Dimensions":"34.5L x 34.5W x 14H Centimeters"
+            },
+            "category":"electronics",
+            "isLimitedDeal":true
+        },
+        {
+            "id": "e_14",
+            "title": "Ceiling Fan",
+            "price": 5390,
+            "discountPercent": 35,
+            "description": "atomberg Renesa Enzel 1200mm BLDC Ceiling Fan with Remote Control",
+            "mainImage": "https://m.media-amazon.com/images/I/51GZwXVUYbL._SX679_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/710oFPfpH2L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/816RpfJDqGL._SX679_.jpg"
+            ],
+            "rating": 4.2,
+            "details":{  
+                "Brand":"atomberg",
+                "Colour":"Gloss White",
+                "Electric fan design":"Ceiling Fan",
+                "Power Source":"Corded Electric"
+            },
+            "category":"electronics",
+            "isLimitedDeal":false
+        },
+        {
+            "id": "e_15",
+            "title": " Iron",
+            "price": 1950,
+            "discountPercent":46,
+            "description": "Wipro Elato 1200 Watt GD203 Heavyweight Automatic Dry Iron",
+            "mainImage": "https://m.media-amazon.com/images/I/715y2hu6Z8L._SX679_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/81+Hqhb4dSL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/81KXBQbzt1L._SX679_.jpg"
+            ],
+            "rating": 3.8,
+            "details":{  
+                "Model Name":	"GD203",
+                "Brand":"wipro",
+                "Compatible Devices":"Camera",
+                "Output Wattage":"1200 Watts"
+            },
+            "category":"electronics",
+            "isLimitedDeal":true
+        }
+    ]

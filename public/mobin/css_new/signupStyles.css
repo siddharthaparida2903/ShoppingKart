@@ -1,0 +1,50 @@
+/* Sign Up Short */
+.signup {
+    padding: 20px 10px;
+    text-align: center;
+    border-bottom: 2px solid gray;
+}
+#signupbtn {
+    background-color: white;
+    width: 80%;
+    height: 45px;
+    border-radius: 150px;
+    margin-top: 20px;
+    border: 1px solid;
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+#signupbtn:hover {
+    background-color: black;
+    color: white;
+    box-shadow: 0 0 5px black;
+    border: none;
+}
+#signupbtn:active {
+    transform: scale(0.95);
+}
+.signupheading,
+.signup p,
+#signupbtn {
+    font-style: italic;
+}
+
+/* Signup Long */
+
+#signupbox li{
+    border: none;
+}
+#signuplist input:focus {
+    border-color: black;
+    box-shadow: 0 0 0.25rem black;
+}
+#signupCaptchaImage {
+    width: 80%;
+    height: 50px;
+    padding: 0;
+    margin: 0;
+    background-color: #ccc;
+}

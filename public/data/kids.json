@@ -1,0 +1,318 @@
+[
+    
+        {
+            "id": "k_01",
+            "title": "Scooter",
+            "price": 5000,
+            "discountPercent": 30,
+            "description": "Kidsmate Speedy Kick Scooter for Kids with LED Wheel Lights, Height Adjustable Handlebar & Foldable Design & Rear Brakes for Kids of Age 3+ Years",
+            "mainImage": "https://m.media-amazon.com/images/I/71ci7tgg08L._SX679_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/71yW-zTDaOL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71iMkltgzvL._SX679_.jpg"
+            ],
+            "rating": 4.0,
+            "details": {
+                "Material type": "Plastic",
+                "Closure type": "Lace-Up",
+                "Heel type": "No Heel",
+                "Water resistance level": "Not Water Resistant"
+            },
+            "category": "kids",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "k_02",
+            "title": "Educational Laptop Computer Toy ",
+            "price": 2500,
+            "discountPercent": 25,
+            "description": "learn alphabets: alphabets recognition and pronunciation. Write capital and small letters.",
+            "mainImage": "https://m.media-amazon.com/images/I/61vedjX-xpL._SX522_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/517F1mue3mL._SX522_.jpg",
+                "https://m.media-amazon.com/images/I/51HGzd9FmSL.jpg"
+            ],
+            "rating": 3.5,
+            "details": {
+                "Material type": "Plastic",
+                "Brand": "Cable World",
+                "Generic Name": "Toy vehicle",
+                "Water resistance level": "Not Water Resistant"
+            },
+            "category": "kids",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "k_03",
+            "title": "Kids Piano",
+            "price": 1000,
+            "discountPercent": 20,
+            "description": "kids piano toys has built-in 8 rhythms, 8 tones, 19 demos, 4 percussion/4 animal sounds, volume/tempo control, and the unique speaker",
+            "mainImage": "https://m.media-amazon.com/images/I/71p96Fybl-L._SX522_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61a0Soz8oHL._SX522_.jpg",
+                "https://m.media-amazon.com/images/I/713wE+kbsaL._SX522_.jpg"
+            ],
+            "rating": 4.5,
+            "details": {
+                "Material type": "Plastic",
+                "Brand": "Vebeto",
+                "Generic Name": "Toy Piano",
+                "Water resistance level": "Not Water Resistant"
+            },
+            "category": "kids",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "k_04",
+            "title": "Archery Bow",
+            "price": 1800,
+            "discountPercent": 40,
+            "description": "From the house of Amitsha heres a Bow & Arrow set which operates almost like a real bow.",
+            "mainImage": "https://m.media-amazon.com/images/I/417eK2Qnc0L.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61YsINlA-bL._SX522_.jpg",
+                "https://m.media-amazon.com/images/I/61LI6o0rbAL._SX522_.jpg"
+            ],
+            "rating": 2.5,
+            "details": {
+                "Material type": "Plastic",
+                "Brand": "Amitasha",
+                "Generic Name": "Toy Bow & Arrow",
+                "Water resistance level": "Not Water Resistant"
+            },
+            "category": "kids",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "k_05",
+            "title": "Kids Tricycle",
+            "price": 4000,
+            "discountPercent": 20,
+            "description": "These lightweight, puncture-resistant wheels provide a safe & comfortable ride.",
+            "mainImage": "https://m.media-amazon.com/images/I/61GaOdoS13L._SX522_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61k7OBqZRkL._SX425_.jpg",
+                "https://m.media-amazon.com/images/I/71Obqqs45LL._SX425_.jpg"
+            ],
+            "rating": 4.0,
+            "details": {
+               "Material type": "MLORPL",
+                "Brand": "Amitasha",
+                "Generic Name": "Kids Bike",
+                "Water resistance level": "Not Water Resistant"
+            },
+            "category": "kids",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "k_06",
+            "title": "T-Shirt With Jacket",
+            "price": 3000,
+            "discountPercent": 40,
+            "description": "Kidsmate Speedy Kick Scooter for Kids with LED Wheel Lights, Height Adjustable Handlebar & Foldable Design & Rear Brakes for Kids of Age 3+ Years",
+            "mainImage": "https://m.media-amazon.com/images/I/61eU-2gSbgL._SX679_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/51UaHkl1GBL._SX522_.jpg",
+                "https://m.media-amazon.com/images/I/61p3m1Pcr0L._SX522_.jpg"
+            ],
+            "rating": 3.0,
+            "details": {
+                "Material type": "Cotton",
+                "Closure type": "Zipper",
+                "Fit type": "Regular",
+                "Care Instructions": "Machine Wash"
+            },
+            "category": "kids",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "k_07",
+            "title": "Chikankari Kurta",
+            "price": 2000,
+            "discountPercent": 10,
+            "description": " This Kurta and Pyjama set is extremely stylish, soft and comfortable",
+            "mainImage": "https://m.media-amazon.com/images/I/51Ltt7MFbJL._SY550_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/610qoFyKMwL._SY550_.jpg",
+                "https://m.media-amazon.com/images/I/51nS1VzXSVL._SX522_.jpg"
+            ],
+            "rating": 3.0,
+            "details": {
+                "Material type": "Cotton",
+                "Closure type": "Pull on",
+                "Fit type": "Regular",
+                "Care Instructions": "Machine Wash"
+            },
+            "category": "kids",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "k_08",
+            "title": "Magic Car",
+            "price": 4000,
+            "discountPercent": 20,
+            "description": "Safe for your Kids as it is Non-Toxic and goes through product",
+            "mainImage": "https://m.media-amazon.com/images/I/61fWiVBXHkL._SY355_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/614UjiJjd7L._SX355_.jpg",
+                "https://m.media-amazon.com/images/I/61Dk9pakyIL._SX355_.jpg"
+            ],
+            "rating": 3.0,
+            "details": {
+                "Material type": "Plastic",
+                "Brand type": "Toyzone Impex",
+                "Generic Name": "Panda",
+                "Water resistance level": "Not Water Resistant"
+            },
+            "category": "kids",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "k_09",
+            "title": "Robot",
+            "price": 2999,
+            "discountPercent": 15,
+            "description": "Galaxy Hi-Tech Bot Robot Pioneer is made of quality material, safe, simple and easy to use",
+            "mainImage": "https://m.media-amazon.com/images/I/71drVy8MKoL._SY450_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/512r00E2azL._SX355_.jpg",
+                "https://m.media-amazon.com/images/I/513iFfmW0oL._SX355_.jpg"
+            ],
+            "rating": 4.5,
+            "details": {
+                "Material type": "Plastic",
+                "Brand Name": "Galaxy",
+                "Generic Name": "Bot Robot",
+                "Water resistance level": "Not Water Resistant"
+            },
+            "category": "kids",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "k_10",
+            "title": "Binoculars",
+            "price": 1000,
+            "discountPercent": 15,
+            "description": "Binoculars for your curious little adventure, lets them see the beautiful landscape",
+            "mainImage": "https://m.media-amazon.com/images/I/51fM5dbvVML._SY355_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61H5Dr3tzzL._SX355_.jpg",
+                "https://m.media-amazon.com/images/I/51p59y9OcJL._SY355_.jpg"
+            ],
+            "rating": 3.0,
+            "details": {
+                "Material type": "Plastic",
+                "Brand Name": "VGRASSP",
+                "Generic Name": "Binocular",
+                "Water resistance level": "Not Water Resistant"
+            },
+            "category": "kids",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "k_11",
+            "title": "Train",
+            "price": 3000,
+            "discountPercent": 20,
+            "description": "Comes With Realistic Sounds, Flashlight and The Train Chugs On The Tracks.",
+            "mainImage": "https://m.media-amazon.com/images/I/71O94Hjq0AL._SY355_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/71tfX74P3rL._SY355_.jpg",
+                "https://m.media-amazon.com/images/I/71UahGu6zUL._SX355_.jpg"
+            ],
+            "rating": 3.5,
+            "details": {
+                "Material type": "Plastic",
+                "Brand Name": "EYESIGN",
+                "Generic Name": "Toy Train",
+                "Water resistance level": "Not Water Resistant"
+            },
+            "category": "kids",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "k_12",
+            "title": "Tent House",
+            "price": 2000,
+            "discountPercent": 10,
+            "description": "This tent is manufactured in India so it comes with the security of Vocal to local program",
+            "mainImage": "https://m.media-amazon.com/images/I/91IwQN+KGDL._SX355_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/91NR+jBM8xL._SX355_.jpg",
+                "https://m.media-amazon.com/images/I/91VZsqOrI1L._SX355_.jpg"
+            ],
+            "rating": 3.0,
+            "details": {
+                "Material type": "Plastic",
+                "Brand Name": "IToys",
+                "Generic Name": "Tent",
+                "Water resistance level": "Not Water Resistant"
+            },
+            "category": "kids",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "k_13",
+            "title": "Domino Block",
+            "price": 500,
+            "discountPercent": 10,
+            "description": "kids to play, Push one of them, it will have a chain of effect with a bang",
+            "mainImage": "https://m.media-amazon.com/images/I/51hEA6K4QNL._SY450_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61dkB1GajkL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61PSUj5jrRL._SY450_.jpg"
+            ],
+            "rating": 2.5,
+            "details": {
+                "Material type": "Plastic",
+                "Brand Name": "Toy Imagine",
+                "Generic Name": "Tile Game",
+                "Water resistance level": "Not Water Resistant"
+            },
+            "category": "kids",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "k_14",
+            "title": "Cotten Blend",
+            "price": 2000,
+            "discountPercent": 25,
+            "description": " cotton blend hosiery material, providing softness and breathability",
+            "mainImage": "https://m.media-amazon.com/images/I/61kFHnQhwSL._SX679_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/617oftFs9zL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/51czRY7J5NL._SX522_.jpg"
+            ],
+            "rating": 4.0,
+            "details": {
+                "Material type": "Cotton",
+                "Closure type": "Pull on",
+                "Fit type": "Regular",
+                "Care Instructions": "Machine Wash"
+            },
+            "category": "kids",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "k_15",
+            "title": "Shirt and Shorts",
+            "price": 3000,
+            "discountPercent": 40,
+            "description": "T-Shirt has a print on the front of the set that will make your child look cute and smart",
+            "mainImage": "https://m.media-amazon.com/images/I/51E8C0ncnUL._SX522_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/5164TqW7pgL._SY550_.jpg",
+                "https://m.media-amazon.com/images/I/61rSP38JTJL._SY550_.jpg"
+            ],
+            "rating": 4.5,
+            "details": {
+                "Material type": "Cotton",
+                "Closure type": "Pull on",
+                "Fit type": "Regular",
+                "Care Instructions": "Machine Wash"
+            },
+            "category": "kids",
+            "isLimitedDeal": true
+        }
+    ]

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <script src="lib/axios.js"></script>
+        <script src="lib/jquery.js"></script>
+        <script src="lib/handlebar.js"></script>
+        <link rel="stylesheet" href="lib/bootstrap-icons/font/bootstrap-icons.css">
+        <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+        <script src="lib/bootstrap/dist/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="css/addProduct.css">
+        <script src="javascripts/uploadProductDetails.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <h3 class="title">
+                Add product details
+            </h3>
+            <div class="row addProductDetails" >
+                <div class="col col-md-2"></div>
+                <div class="col col-md-8">
+
+                    <ul>
+                        <li>
+                            <input class="form-control"  type="text" id="id" placeholder="Id">
+                        </li>
+                        <li>
+                            <input class="form-control"  id="title" type="text" placeholder="Product Title" >
+                        </li>
+                        <li>
+                            <input class="form-control"  id="price" type="number" id="price" placeholder="Price">
+                        </li>
+                        <li>
+                            <input class="form-control"  id="discountPercent" type="number" placeholder="Discount Percent">
+                        </li>
+                        <li>
+                            <input class="form-control"  id="description" type="text" placeholder="Description">
+                        </li>
+                        <li>
+                            <!-- <input class="form-control"  id="mainImage" type="text" placeholder="Image url"> -->
+                             Upload Product Image: 
+                            <form method ="POST"  enctype="multipart/form-data">
+                                <input type="file" name="prodImage">
+                                <input type="button" value="Upload Image" onclick="uploadDetails()">
+                            </form>
+                        <li>
+                            <input class="form-control"  type="number" id="rating" placeholder="Rating">
+                        </li>
+                        <li>
+                            <select class="form-control"  name="" id="category">
+                                <option value="" selected>Select Category</option>
+                                <option value="books">Books</option>
+                                <option value="kids">Kids</option>
+                                <option value="Electronics">Electronics</option>
+                                <option value="Mens">Mens</option>
+                            </select>
+                        </li>
+                        <li>
+                            <input type="button" value="Add Details" class="btn btn-primary" onclick="readProductDetails()">
+                        </li>
+                        <li id="rblock">
+
+                        </li>
+                        
+                    </ul>
+                </div>
+                <div class="col col-md-2"></div>
+            </div>
+        </div>
+    </body>
+</html>

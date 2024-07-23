@@ -1,0 +1,117 @@
+<div class="productDetailsPage">
+  <div class="filter">
+      <input type="button" value="Filter" class="btn btn-primary headings btnsColor" onclick="applyFilterToProducts()">
+    <p class="headings"> Price Range: </p>
+    <span>100</span><input type="range" min="1000" max="100000" id="priceRange" step="1000" onchange="ChangeSliderValue(this.value)">
+    <span id="staticPrice">100000</span><span id="priceRange"></span>          
+     <p class="headings"> Category : </p>
+      <ul>
+        <li class="optColor"><input type="checkbox" value="Mens" id="category_men"> Mens </li>
+        <li class="optColor"><input type="checkbox" value="Womens" id="category_women"> Womens </li>
+        <li class="optColor"><input type="checkbox" value="kids" id="category_kids"> Kids </li>
+        <li class="optColor"><input type="checkbox" value="  " id="category_elec"> Electronics </li>
+        <li class="optColor"><input type="checkbox" value="Books" id="category_book"> Books </li>
+        <li class="optColor"><input type="checkbox" value="Launchpad" id="category_Launchpad"> Launchpad </li>
+        <li class="optColor"><input type="checkbox" value="Bags" id="category_Bags"> Bags </li>
+        <li class="optColor"><input type="checkbox" value="Bangles" id="category_bangles"> Bangles </li>
+        <li class="optColor"><input type="checkbox" value="Clothing" id="category_Clothing"> Clothing </li>
+        <li class="optColor"><input type="checkbox" value="Computers" id="category_Computers"> Computers </li>
+        <li class="optColor"><input type="checkbox" value="Fitness" id="category_Fitness"> Fitness </li>
+        <li class="optColor"><input type="checkbox" value="Garden & Outdoors" id="category_Garden & Outdoors"> Garden & Outdoors </li>
+        <li class="optColor"><input type="checkbox" value="Health " id="category_Health "> Health  </li>
+        <li class="optColor"><input type="checkbox" value="Handbags" id="category_Handbags"> Handbags </li>
+        <li class="optColor"><input type="checkbox" value="Jewellery" id="category_Jewellery"> Jewellery </li>
+        <li class="optColor"><input type="checkbox" value="Kitchen" id="category_Kitchen"> Kitchen </li>
+        <li class="optColor"><input type="checkbox" value="Luggage" id="category_Luggage"> Luggage </li>
+        <li class="optColor"><input type="checkbox" value="Movies " id="category_Movies "> Movies  </li>
+        <li class="optColor"><input type="checkbox" value="Music" id="category_Music"> Music </li>
+        <li class="optColor"><input type="checkbox" value="Musical Instruments" id="category_Musical Instruments"> Musical Instruments </li>
+        <li class="optColor"><input type="checkbox" value="Office Products" id="category_Office Products"> Office Products </li>
+        <li class="optColor"><input type="checkbox" value="Pet Supplies" id="category_Pet Supplies"> Pet Supplies </li>
+        <li class="optColor"><input type="checkbox" value="Refrigerators" id="category_Refrigerators"> Refrigerators </li>
+        <li class="optColor"><input type="checkbox" value="Shoes " id="category_Shoes "> Shoes  </li>
+        <li class="optColor"><input type="checkbox" value="Sports" id="category_Sports"> Sports </li>
+        <li class="optColor"><input type="checkbox" value="Toys" id="category_Toys"> Toys </li>
+        <li class="optColor"><input type="checkbox" value="Video Games" id="category_Video Games"> Video Games </li>
+        <li class="optColor"><input type="checkbox" value="Watches" id="category_Watches"> Watches </li>
+        <li class="optColor"><input type="checkbox" value="Wallets" id="category_Wallets"> Wallets </li>
+     </ul>
+     <div><span class="headings"> Delivery Day : </span>
+           <ul>
+                 <li class="optColor"><input type="checkbox" value="Get It Today"> Get It Today </li>
+                 <li class="optColor"><input type="checkbox" value="Get It Today"> Get It Tomorrow </li>
+           </ul>
+     </div>
+     <div><span class="headings"> Pay On Delivery : </span>
+           <ul>
+                 <li class="optColor"><input type="checkbox" value="Eligible for Pay On Delivery"> Eligible for Pay On Delivery </li>
+           </ul>
+     </div>
+     <div><span class="headings"> Brands : </span>
+           <ul>
+                 <li class="optColor"><input type="checkbox" value="Apple"> Apple </li>
+                 <li class="optColor"><input type="checkbox" value="Samsung"> Samsung </li>
+                 <li class="optColor"><input type="checkbox" value="One Plus"> One Plus </li>
+                 <li class="optColor"><input type="checkbox" value="MI"> MI </li>
+                 <li class="optColor"><input type="checkbox" value="RedMi"> RedMi </li>
+                 <li class="optColor"><input type="checkbox" value="POCO"> POCO </li>
+                 <li class="optColor"><input type="checkbox" value="Realme"> Realme </li>
+                 <li class="optColor"><input type="checkbox" value="IQOO"> IQOO </li>
+                 <li class="optColor"><input type="checkbox" value="Moto"> Moto </li>
+                 <li class="optColor"><input type="checkbox" value="Techno"> Techno </li>
+                 <li class="optColor"><input type="checkbox" value="LG"> LG </li>
+                 <li class="optColor"><input type="checkbox" value="Whirpool"> Whirpool </li>
+                 <li class="optColor"><input type="checkbox" value="Blue Star"> Blue Star </li>
+                 <li class="optColor"><input type="checkbox" value="Daikin"> Daikin </li>
+                 <li class="optColor"><input type="checkbox" value="LLyod"> LLyod </li>
+                 <li class="optColor"><input type="checkbox" value="Haier"> Haier </li>
+                 <li class="optColor"><input type="checkbox" value="IFB"> IFB </li>
+                 <li class="optColor"><input type="checkbox" value="Apple"> Apple </li>
+           </ul>
+     </div>
+     <div><span class="headings"> New Arrivals : </span>
+           <ul>
+                 <li class="optColor"> Last 30 days </li>
+                 <li class="optColor"> Last 90 days </li>
+           </ul>
+     </div>
+     <div><span class="headings"> Item Condition : </span>
+           <ul>
+                 <li class="optColor"> New </li>
+                 <li class="optColor"> Renewed </li>
+           </ul>
+     </div>
+     <div><span class="headings"> Price : </span>
+           <ul>
+                 <li class="optColor"> Under <i class="bi bi-currency-rupee">1,000</i></li>
+                 <li class="optColor"><i class="bi bi-currency-rupee">1,000</i> - <i class="bi bi-currency-rupee">5,000</i></li>
+                 <li class="optColor"><i class="bi bi-currency-rupee">5,000</i> - <i class="bi bi-currency-rupee">10,000</i></li>
+                 <li class="optColor"><i class="bi bi-currency-rupee">10,000</i> - <i class="bi bi-currency-rupee">20,000</i></li>
+                 <li class="optColor"> Over <i class="bi bi-currency-rupee">20,000</i></li>
+           </ul>
+     </div>
+     <div><span class="headings"> Deals : </span>
+           <ul>
+                 <li class="optColor"> All Discounts </li>
+                 <li class="optColor"> Today's Deal </li>
+           </ul>
+     </div>
+     <div><span class="headings"> Discounts : </span>
+           <ul>
+                 <li class="optColor">10% Off or more</li>
+                 <li class="optColor">25% Off or more</li>
+                 <li class="optColor">35% Off or more</li>
+                 <li class="optColor">60% Off or more</li>
+                 <li class="optColor">70% Off or more</li>
+                 <li class="optColor">75% Off or more</li>
+           </ul>
+     </div>
+     <div><span class="headings"> Availability : </span>
+           <ul>
+              <li class="optColor"><input type="checkbox" value="Include Out of Stock"> Include Out of Stock </li>
+           </ul>
+     </div>
+     <input type="button" value="Filter" class="btn btn-primary headings btnsColor"  onclick="applyFilterToProducts()">
+</div>
+    <div id="productDetailsBlock"></div>
+</div>

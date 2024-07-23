@@ -1,0 +1,317 @@
+[
+    {
+        "id": "c_01",
+        "title": "Desktop Computer",
+        "price": 90000,
+        "discountPercent": 30,
+        "description": " HD LED screen giving you the ultimate experience with excellent performance and versatility.",
+        "mainImage": "https://m.media-amazon.com/images/I/61XBdHTo49L._SX679_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/51rkT0RplTL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/511TxmuaWYL._SX679_.jpg"
+        ],
+        "rating": 4.5,
+        "details": {
+           "Brand" : "HP",
+           "Operating System" : "Windows",
+           "CPU Model" : "Core i5 3470",
+           "CPU Speed" : "3.2 GHz"
+        },
+        "category": "Computers",
+        "isLimitedDeal": true
+    },
+    {
+        "id": "c_02",
+        "title": "Dell Desktop",
+        "price": 35000,
+        "discountPercent": 25,
+        "description": "Operating System & Software: Pre-loaded Windows 11 Home| Microsoft Office Home & Student 2019.",
+        "mainImage": "https://m.media-amazon.com/images/I/611rWetgdRL._SX679_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/51r-BVW-WDL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/51F3DO81TsL._SX679_.jpg"
+        ],
+        "rating": 3.5,
+        "details": {
+           "Brand" : "Dell",
+           "Operating System" : "Windows",
+           "CPU Model" : "Geode Gx",
+           "CPU Speed" : "2 GHz"
+        },
+        "category": "Computers",
+        "isLimitedDeal": true
+    },
+    {
+        "id": "c_03",
+        "title": "Samsung Galaxy",
+        "price": 100000,
+        "discountPercent": 20,
+        "description": "Operating System & Software: Pre-loaded Windows 11 Home| Microsoft Office Home & Student 2019",
+        "mainImage": "https://m.media-amazon.com/images/I/71Dh450OVpL._SX522_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/718zhO0N94L._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/71y8LecDWqL._SX522_.jpg"
+        ],
+        "rating": 4.5,
+        "details": {
+            "Brand" : "Samsung",
+           "Operating System" : "Windows 11",
+           "CPU Model" : "Core i7",
+           "CPU Speed" : "4.6 GHz"
+        },
+        "category": "Computers",
+        "isLimitedDeal": true
+    },
+    {
+        "id": "c_04",
+        "title": "Mac Book Pro",
+        "price": 180000,
+        "discountPercent": 40,
+        "description": "The Apple M3 Pro chip, with an up to 12-core CPU and up to 18-core GPU using hardware-accelerated ray tracing",
+        "mainImage": "https://m.media-amazon.com/images/I/314kVw1vC6L._SY445_SX342_QL70_FMwebp_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/81bhRr-SE1L._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71JsSoIns1L._SX679_.jpg"
+        ],
+        "rating": 4.5,
+        "details": {
+            "Brand" : "Apple",
+           "Operating System" : "Mac Os",
+           "CPU Model" : "Apple M2 Ultra",
+           "CPU Speed" : "4.2 GHz"
+        },
+        "category": "Computers",
+        "isLimitedDeal": true
+    },
+    {
+        "id": "c_05",
+        "title": "PC Intel oenitum",
+        "price": 42000,
+        "discountPercent": 40,
+        "description": "Operating System & Software: Pre-loaded Windows 11 Home| Microsoft Office Home & Student 2019",
+        "mainImage": "https://m.media-amazon.com/images/I/41hEfQiYx3L._SX300_SY300_QL70_FMwebp_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/61kvOD06-kL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/61BV2I6o1sL._SX679_.jpg"
+        ],
+        "rating": 4.0,
+        "details": {
+          "Brand" : "HP",
+           "Operating System" : "Windows",
+           "CPU Model" : "Core i5 3470",
+           "CPU Speed" : "3.2 GHz"
+        },
+        "category":"Computers",
+        "isLimitedDeal": true
+    },
+    {
+        "id": "c_06",
+        "title": "ASUS Desktop",
+        "price": 30000,
+        "discountPercent": 27,
+        "description": "Operating System & Software: Pre-loaded Windows 11 Home| Microsoft Office Home & Student 2019",
+        "mainImage": "https://m.media-amazon.com/images/I/41XvaSvIUZL._SX300_SY300_QL70_FMwebp_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/71FpaMOhLyL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71RvXIk0gAL._SX679_.jpg"
+        ],
+        "rating": 4.0,
+        "details": {
+           "Brand" : "ASUS",
+           "Operating System" : "Windows",
+           "CPU Model" : "Core i5",
+           "CPU Speed" : "4.2 GHz"
+        },
+        "category":"Computers",
+        "isLimitedDeal": true
+    },
+    {
+        "id": "c_07",
+        "title": "Dell Optiplex",
+        "price": 60000,
+        "discountPercent": 45,
+        "description": "Operating System & Software: Pre-loaded Windows 11 Home| Microsoft Office Home & Student 2019.",
+        "mainImage": "https://m.media-amazon.com/images/I/41HKMQPFhmL._SX300_SY300_QL70_FMwebp_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/61650v95TGL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/61650v95TGL._SX679_.jpg"
+        ],
+        "rating": 3.5,
+        "details": {
+           "Brand" : "Dell",
+           "Operating System" : "Windows",
+           "CPU Model" : "Core i7 4307",
+           "CPU Speed" : "3.5 GHz"
+        },
+        "category":"Computers",
+        "isLimitedDeal": true
+    },
+    {
+        "id": "c_08",
+        "title": "Gaming PC",
+        "price": 40000,
+        "discountPercent": 55,
+        "description": "Operating System & Software: Pre-loaded Windows 11 Home| Microsoft Office Home & Student 2019.",
+        "mainImage": "https://m.media-amazon.com/images/I/41+b0JnngsL._SY300_SX300_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/61kmyxiE+mL.jpg",
+            "https://m.media-amazon.com/images/I/61kmyxiE+mL.jpg"
+        ],
+        "rating": 3.0,
+        "details": {
+           "Brand" : "Generic",
+           "Operating System" : "Windows",
+           "CPU Model" : "Intel i7",
+           "CPU Speed" : "3.4 GHz"
+        },
+        "category":"Computers",
+        "isLimitedDeal": true
+    },
+    {
+        "id": "c_09",
+        "title": "Lenovo ThinkCenter",
+        "price": 49999,
+        "discountPercent": 65,
+        "description": "Operating System & Software: Pre-loaded Windows 11 Home| Microsoft Office Home & Student 2019.",
+        "mainImage": "https://m.media-amazon.com/images/I/612CyMLlFlL._SX679_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/41ogolWLuiL.jpg",
+            "https://m.media-amazon.com/images/I/41ca17S6M+L._SY300_SX300_.jpg"
+        ],
+        "rating": 4.5,
+        "details": {
+           "Brand" : "Lenovo",
+           "Operating System" : "Windows",
+           "CPU Model" : "Core i5 4570T",
+           "CPU Speed" : "3.2 GHz"
+        },
+        "category":"Computers",
+        "isLimitedDeal": true
+    },
+    {
+        "id": "c_10",
+        "title": "Lenovo Ideacenter",
+        "price": 90000,
+        "discountPercent": 48,
+        "description": "Operating System & Software: Pre-loaded Windows 11 Home| Microsoft Office Home & Student 2019.",
+        "mainImage": "https://m.media-amazon.com/images/I/7109vRjS7QL._SX679_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/61KWEIR3nlL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/710wfHhcW4L._SX679_.jpg"
+        ],
+        "rating": 3.0,
+        "details": {
+           "Brand" : "HP",
+           "Operating System" : "Windows",
+           "CPU Model" : "Ryzen 3",
+           "CPU Speed" : "3.2 GHz"
+        },
+        "category":"Computers",
+        "isLimitedDeal": true
+    },
+    {
+        "id": "c_11",
+        "title": "FronTech",
+        "price": 40000,
+        "discountPercent": 33,
+        "description": "Operating System & Software: Pre-loaded Windows 11 Home| Microsoft Office Home & Student 2019.",
+        "mainImage": "https://m.media-amazon.com/images/I/81-pe8AZQLL._SX522_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/81PdACXN0XL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/81Wv1RyC8OL._SX522_.jpg"
+        ],
+        "rating": 3.5,
+        "details": {
+           "Brand" : "FronTech",
+           "Operating System" : "Windows",
+           "CPU Model" : "Core i5 3470",
+           "CPU Speed" : "3.2 GHz"
+        },
+        "category":"Computers",
+        "isLimitedDeal": true
+    },
+    {
+        "id": "c_12",
+        "title": "Acer ALG",
+        "price": 60000,
+        "discountPercent": 28,
+        "description": "Operating System & Software: Pre-loaded Windows 11 Home| Microsoft Office Home & Student 2019.",
+        "mainImage": "https://m.media-amazon.com/images/I/610pMwN1z6L._SX679_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/71CQwQ1GcoL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/81WQuihDvuL._SX679_.jpg"
+        ],
+        "rating": 3.0,
+        "details": {
+           "Brand" : "Acer",
+           "Operating System" : "Windows",
+           "CPU Model" : "Core i5",
+           "CPU Speed" : "3.2 GHz"
+        },
+        "category":"Computers",
+        "isLimitedDeal": true
+    },
+    {
+        "id": "c_13",
+        "title": "Asus Vivo AiO",
+        "price": 80000,
+        "discountPercent": 20,
+        "description": "Operating System & Software: Pre-loaded Windows 11 Home| Microsoft Office Home & Student 2019.",
+        "mainImage": "https://m.media-amazon.com/images/I/71khmlX0DnL._SX679_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/71FpaMOhLyL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/71DmDhfRx-L._SX679_.jpg"
+        ],
+        "rating": 3.5,
+        "details": {
+           "Brand" : "Asus",
+           "Operating System" : "Windows 11",
+           "CPU Model" : "Pentium",
+           "CPU Speed" : "3.2 GHz"
+        },
+        "category":"Computers",
+        "isLimitedDeal": true
+    },
+    {
+        "id": "c_14",
+        "title": "Chuwi",
+        "price": 55000,
+        "discountPercent": 65,
+        "description": "Operating System & Software: Pre-loaded Windows 11 Home| Microsoft Office Home & Student 2019.",
+        "mainImage": "https://m.media-amazon.com/images/I/61mBXtH1v8L._SX679_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/61JnoSdGpXL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/617EtSdt74L._SX679_.jpg"
+        ],
+        "rating": 4.0,
+        "details": {
+           "Brand" : "Chuwi",
+           "Operating System" : "Windows",
+           "CPU Model" : "Core i3 1215U",
+           "CPU Speed" : "3.2 GHz"
+        },
+        "category":"Computers",
+        "isLimitedDeal": true
+    },
+    {
+        "id": "c_15",
+        "title": "Core Book X",
+        "price": 35000,
+        "discountPercent": 45,
+        "description": "Operating System & Software: Pre-loaded Windows 11 Home| Microsoft Office Home & Student 2019.",
+        "mainImage": "https://m.media-amazon.com/images/I/511-JRw2kkL._SX679_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/61593ocG4EL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/51UOC+iAMvL._SX679_.jpg"
+        ],
+        "rating": 3.5,
+        "details": {
+           "Brand" : "Chuwi",
+           "Operating System" : "Windows",
+           "CPU Model" : "Core i5-1035G1",
+           "CPU Speed" : "3.2 GHz"
+        },
+        "category":"Computers",
+        "isLimitedDeal": true
+    }
+]

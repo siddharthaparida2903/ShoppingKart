@@ -1,0 +1,66 @@
+.modal-body ul {
+    margin: 10px;
+    padding: 10px;    
+}
+
+.modal-content {
+     background-image: url("../Images/background.png");
+}
+.modal-title
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.modal-body ul li {
+    margin: 10px;
+    padding: 10px;
+    list-style: none;
+    background-color: #fff;
+	 border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.captchaContainer img {
+    height: 50px;
+    margin-left: 35px;
+}
+
+#errMsgBlock {
+    text-align: center;
+    font-weight: bold;
+    color: red;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+#passLogin{
+    position: absolute;
+    left: 410px;
+    top: 130px;
+}
+#pswdSignUp {
+    position: absolute;
+    left: 410px;
+    top: 130px;
+}
+#repassSignUp{
+    position: absolute;
+    left: 410px;
+    top: 200px;
+}
+#frgtpwdmsg {
+    text-align: center;
+    font-weight: bold;
+    color: green;
+    display: none;
+}
+.modal-body p {
+    text-align: center;
+    font-weight: bold;
+    color: red;
+    display: none  
+}
+#signupmsg {
+    text-align: center;
+    font-weight: bold;
+    color: green;
+    display: none;
+}

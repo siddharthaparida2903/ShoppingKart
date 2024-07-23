@@ -1,0 +1,16 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to Employee Details page
+  
+  each employeeData, index in data
+    ul 
+        li Name : #{employeeData.name}
+        li Age : #{employeeData.age}
+        li Gender : #{employeeData.gender}
+        li Location: #{employeeData.location}
+
+
+
+

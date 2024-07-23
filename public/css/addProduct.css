@@ -1,0 +1,17 @@
+
+.addProductDetails {
+    li {
+        list-style: none;
+        padding: 10px;
+        margin: 10px;
+    }
+    ul {
+        border: 1px solid #ddd;
+    }
+
+    #rblock {
+        text-align: center;
+        color: green;
+        font-size: 20px;
+    }
+}

@@ -1,0 +1,17 @@
+.ratingBlock div {
+    background-image: url(images/ratingStars.PNG);
+    width: 21px;
+    height: 22px;
+    float: left;
+}
+
+.ratingBlock {
+    height: 35px;
+}
+
+.halfStar {
+    background-position: 41px 0px;
+}
+.disabledStar {
+    background-position: 21px 0px;
+}

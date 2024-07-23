@@ -1,0 +1,61 @@
+.productDetailsPage {
+    display: grid;
+    grid-template-columns: 150px auto;
+    li {
+        list-style: none;
+    }
+}
+
+.productDetailsPage > div {
+    margin: 5px;
+}
+.filter {
+    border: 1px solid;
+    padding: 10px;
+    width: 220px;
+    background-color: #72a7d3;
+    position: relative;
+    left: -78px;
+}
+.headings {
+    margin: 4px;
+    text-align: left;
+    font-weight: bold;
+}
+.optColor:hover {
+    cursor: pointer;
+    color: gold;
+}
+#productDetailsBlock {
+    display: flex;
+    flex-wrap: wrap;
+}
+#productDetailsBlock > .card {
+    margin: 10px;
+}
+currency {
+    position: relative;
+    top: -14px;
+}
+
+.discountPercent {
+    font-weight: bold;
+    color: orange;
+}
+
+.discountedPrice {
+    font-size: 35px;
+}
+
+.actualPrice {
+    text-decoration: underline;
+    text-decoration-line: line-through;
+}
+
+.productTitle {
+    height: 55px;
+}
+
+.productSmallDes {
+    height: 100px;
+}

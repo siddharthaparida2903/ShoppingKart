@@ -1,0 +1,328 @@
+[
+        {
+            "id": "b_01",
+            "title": "The 8 Hidden Habits to Live Your Richest Life",
+            "price": 499,
+            "discountPercent": 31,
+            "description": "The Wealth Money Can't Buy: The 8 Hidden Habits to Live Your Richest Life Paperback – 9 April 2024)",
+            "mainImage": "https://m.media-amazon.com/images/I/81M54bFUstL._SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/81V0veiedUL._SL1500_.jpg"
+            ],
+            "rating": 4.2,
+            "details": {
+                "Publisher ": "Jaico Publishing House",
+                "Language ": "English",
+                "Paperback": "424 pages",
+                "Reading age": "Customer suggested age: 17 years and up",
+                "Dimensions": "20.3 x 25.4 x 4.7 cm"
+            },
+            "category": "books",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "b_02",
+            "title": "Gora (Hindi)",
+            "price": 299,
+            "discountPercent": 35,
+            "description": "Gora (Hindi) [Paperback] Rabindranath Tagore [Paperback] Rabindranath Tagore Paperback – 1 October 2019",
+            "mainImage": "https://m.media-amazon.com/images/I/91y1+IrY02L._SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/A154VasLwDL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81iBQxIZXtL._SL1500_.jpg"
+            ],
+            "rating": 3.8,
+            "details": {
+                "Publisher ": "Fingerprint! Publishing",
+                "Language ": "Hindi",
+                "Paperback": "488 pages",
+                "Reading age": "Customer suggested age: 17 years and up",
+                "Dimensions": "22 x 15 x 2.5 cm"
+            },
+            "category": "books",
+            "isLimitedDeal": false
+        },
+        {
+            "id": "b_03",
+            "title": "Chandamama Kathalu (Telegu)",
+            "price": 400,
+            "discountPercent": 50,
+            "description": "Chandamama Kathalu-1 (Multi Colour) Paperback – 1 January 2020",
+            "mainImage": "https://m.media-amazon.com/images/I/91pL-BAIfML._SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/914mz23+4RL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/91dyyrqxX1L._SL1500_.jpg"
+            ],
+            "rating": 4.4,
+            "details": {
+                "Publisher ": "JP Publications",
+                "Language ": "Telugu",
+                "Paperback": "144 pages",
+                "Reading age": "15 years and up",
+                "Dimensions": "21.5 x 14 x 2 cm"
+            },
+            "category": "books",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "b_04",
+            "title": "Ettavum Priyappetta Ennod (Malayalam)",
+            "price": 400,
+            "discountPercent": 26,
+            "description": "Ettavum Priyappetta Ennod-Novel By Nimna Vijay- Perfect Paperback – 1 January 2023",
+            "mainImage": "https://m.media-amazon.com/images/I/517oVpMrC7L.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/517oVpMrC7L.jpg",
+                "https://m.media-amazon.com/images/I/61WslnjlGNL.jpg"
+            ],
+            "rating": 4.4,
+            "details": {
+                "Publisher ": "Mankind Literature",
+                "Language ": "Telugu",
+                "Paperback": "216 pages",
+                "Reading age": "15 years and up",
+                "Dimensions": "21.5 x 14 x 2 cm"
+            },
+            "category": "books",
+            "isLimitedDeal": false
+        },        
+        {
+            "id": "b_05",
+            "title": "Thiruvasagam (Tamil)",
+            "price": 280,
+            "discountPercent": 0,
+            "description": "Thiruvasagam Hardcover – 1 January 2016",
+            "mainImage": "https://m.media-amazon.com/images/I/A17mxUcDdGL._SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/A17mxUcDdGL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/A1zHylWio6L._SL1500_.jpg"
+            ],
+            "rating": 4.6,
+            "details": {
+                "Publisher ": "Sree Indhu Publications",
+                "Language ": "Tamil",
+                "Paperback": "280 pages",
+                "Reading age": "15 years and up",
+                "Dimensions": "21.5 x 14 x 1.6 cm"
+            },
+            "category": "books",
+            "isLimitedDeal": false
+        },        
+        {
+            "id": "b_06",
+            "title": "Sirivantikege Sarala Sutragalu (Kannada)",
+            "price": 176,
+            "discountPercent": 0,
+            "description": "Sirivantikege Sarala Sutragalu Hardcover – 1 January 2024",
+            "mainImage": "https://m.media-amazon.com/images/I/81Lir5Kp3GL._SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/81Lir5Kp3GL._SL1500_.jpg"
+            ],
+            "rating": 4.6,
+            "details": {
+                "Publisher ": "Sawanna Enterprises",
+                "Language ": "Kannada",
+                "Paperback": "152 pages",
+                "Reading age": "9 years and up",
+                "Dimensions": "25 x 25 x 1.1 cm"
+            },
+            "category": "books",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "b_07",
+            "title": "The Goan Grind",
+            "price": 499,
+            "discountPercent": 20,
+            "description": "The Goan Grind: The Untold Story of Goa's Ground Masalas and Pastes Paperback – 1 September 2020",
+            "mainImage": "https://m.media-amazon.com/images/I/71BFHtBwFOL._SL1360_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/71BFHtBwFOL._SL1360_.jpg",
+                "https://m.media-amazon.com/images/I/71sGWKoKFBL._SL1360_.jpg"
+            ],
+            "rating": 4.1,
+            "details": {
+                "Publisher ": "Cinnamonteal Publishing",
+                "Language ": "English",
+                "Paperback": "74 pages",
+                "Reading age": "9 years and up",
+                "Dimensions": "13.97 x 0.48 x 21.59 cm"
+            },
+            "category": "books",
+            "isLimitedDeal": false
+        },        
+        {
+            "id": "b_08",
+            "title": "Bandhawarchya Babhali (Marathi)",
+            "price": 350,
+            "discountPercent": 20,
+            "description": "Bandhawarchya Babhali : G D Madgulkar Marathi Bo Paperback – 1 September 2018",
+            "mainImage": "https://m.media-amazon.com/images/I/81IkZL-0R1L._SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/9176otkIQQL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81rFhUNkMqL._SL1500_.jpg"
+            ],
+            "rating": 4.6,
+            "details": {
+                "Publisher ": "Saket Prakashan Pvt. Ltd",
+                "Language ": "Marathi",
+                "Paperback": "144 pages",
+                "Reading age": "9 years and up",
+                "Dimensions": "20.3 x 25.4 x 4.7 cm"
+            },
+            "category": "books",
+            "isLimitedDeal": false
+        },        
+        {
+            "id": "b_09",
+            "title": "Khalid bin Walid Urdu Novel (Urdu)",
+            "price": 350,
+            "discountPercent": 20,
+            "description": "Khalid bin Walid Urdu Novel Islamic history [Hardcover] Almas M.A. Hardcover – 1 January 2019",
+            "mainImage": "https://m.media-amazon.com/images/I/7183MaUs26L._SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/7183MaUs26L._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/813g0wKTV6L._SL1492_.jpg"
+            ],
+            "rating": 4.6,
+            "details": {
+                "Publisher ": "Adabi Duniya",
+                "Language ": "Urdu",
+                "Paperback": "384 pages",
+                "Reading age": "9 years and up",
+                "Dimensions": "20.3 x 25.4 x 4.7 cm"
+            },
+            "category": "books",
+            "isLimitedDeal": true
+        },        
+        {
+            "id": "b_10",
+            "title": "Tetari (Bhojpuri)",
+            "price": 130,
+            "discountPercent": 13,
+            "description": "Tetari - Bhojpuri Paperback – 8 April 2018",
+            "mainImage": "https://m.media-amazon.com/images/I/71O5vBE31iL._SL1000_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/71O5vBE31iL._SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/81hqUB2fqyL._SL1500_.jpg"
+            ],
+            "rating": 4.6,
+            "details": {
+                "Publisher ": "Hind Yugm Blu",
+                "Language ": "Bhojpuri",
+                "Paperback": "104 pages",
+                "Reading age": "9 years and up",
+                "Dimensions": "20.3 x 25.4 x 4.7 cm"
+            },
+            "category": "books",
+            "isLimitedDeal": true
+        },        
+        {
+            "id": "b_11",
+            "title": "Krishnasindhuki (Bengali)",
+            "price": 350,
+            "discountPercent": 11,
+            "description": "Krishnasindhuki | An Unputdownable Historical Fiction By Bestselling Bengali Author Debarati Mukhopadhyay Hardcover – 1 January 2024",
+            "mainImage": "https://m.media-amazon.com/images/I/61lM1F8BZzL._SL1014_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61lM1F8BZzL._SL1014_.jpg",
+                "https://m.media-amazon.com/images/I/61HDFvyoEdL._SL1014_.jpg"
+            ],
+            "rating": 4.6,
+            "details": {
+                "Publisher ": "Deep Prakashan",
+                "Language ": "Bengali",
+                "Paperback": "320 pages",
+                "Reading age": "10 years and up",
+                "Dimensions": "20.3 x 25.4 x 4.7 cm"
+            },
+            "category": "books",
+            "isLimitedDeal": false
+        },
+        {
+            "id": "12",
+            "title": "Chha Mana Atha Guntha (Odia)",
+            "price": 450,
+            "discountPercent": 35,
+            "description": "Chha Mana Atha Guntha Paperback – Import, 18 April 2022",
+            "mainImage": "https://m.media-amazon.com/images/I/71ORHR4iYcL._SL1360_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/71ORHR4iYcL._SL1360_.jpg",
+                "https://m.media-amazon.com/images/I/61rBl8c81eL._SL1360_.jpg"
+            ],
+            "rating": 4.2,
+            "details": {
+                "Publisher ": "Black Eagle Books ",
+                "Language ": "Oriya",
+                "Paperback": "158 pages",
+                "Reading age": "9 years and up",
+                "Dimensions": "13.97 x 0.94 x 21.59 cm"
+            },
+            "category": "books",
+            "isLimitedDeal": true
+        },
+        {
+            "id": "b_13",
+            "title": "Japji Sahib (Panjabi)",
+            "price": 395,
+            "discountPercent": 5,
+            "description": "Japji Sahib (Punjabi) Paperback – 1 January 2016",
+            "mainImage": "https://m.media-amazon.com/images/I/51NyDyAce3L.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/51NyDyAce3L.jpg"
+            ],
+            "rating": 5.0,
+            "details": {
+                "Publisher ": "Gurumaa Vani",
+                "Language ": "Punjabi",
+                "Paperback": "372 pages",
+                "Reading age": "9 years and up",
+                "Dimensions": "24.3 x 16.3 x 2.2 cm"
+            },
+            "category": "books",
+            "isLimitedDeal": false
+        },
+        {
+            "id": "b_14",
+            "title": "Vartalap (Gujarati)",
+            "price": 150,
+            "discountPercent": 0,
+            "description": "Vartalap - A Collection of easy reading, inspirational, Gujarati Short Stories Paperback – 1 January 2017",
+            "mainImage": "https://m.media-amazon.com/images/I/61ZBzffhu9L._SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61ZBzffhu9L._SL1500_.jpg"
+            ],
+            "rating": 4.3,
+            "details": {
+                "Publisher ": "StoryMirror Infotech Pvt Ltd ",
+                "Language ": "Gujarati",
+                "Paperback": "125 pages",
+                "Reading age": "9 years and up",
+                "Dimensions": "21.59 x 13.97 x 0.76 cm"
+            },
+            "category": "books",
+            "isLimitedDeal": false
+        },       
+        {
+            "id": "b_15",
+            "title": "Abeli (Assamese)",
+            "price": 399,
+            "discountPercent": 24,
+            "description": "Abeli | আবেলি | Indranee Sarma| Assamese Novel Hardcover – 1 January 2024",
+            "mainImage": "https://m.media-amazon.com/images/I/81Q9f-99tsL._SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/81Q9f-99tsL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81w8elADVdL._SL1500_.jpg"
+            ],
+            "rating": 4.8,
+            "details": {
+                "Publisher ": "Aank Baak",
+                "Language ": "Assamese",
+                "Paperback": "272 pages",
+                "Reading age": "12 years and up",
+                "Dimensions": "22 x 12 x 3 cm"
+            },
+            "category": "books",
+            "isLimitedDeal": true
+        }
+    ]
